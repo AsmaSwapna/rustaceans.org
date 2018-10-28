@@ -1,13 +1,13 @@
 {
     "name": "Asma Swapna",
-    "irc": "asma",
+    "irc": "aiswapna",
     "irc_channels": ["rust"],
     "show_avatar": true,
     "email": "asma@asmaswapna.com",
     "discourse": "AsmaSwapna",
-    "reddit": "whispeehaze",
+    "reddit": "aiswapna",
     "twitter": "@AsmaSwapna",
-    "blog": "http://blog.asmaswapna.com/category/technology/rust/",
-    "website": "http://blog.asmaswapna.com",
-    "notes": "Asma Swapna is a Representative of Mozilla currently advocating for Rust and other Open Source Projects in her region"
+    "blog": "http://blog.asmaswapna.com/",
+    "website": "http://asmaswapna.com",
+    "notes": "Asma Swapna is a Representative of Mozilla currently advocating for Rust and other Open Source Projects in her region."
 }
